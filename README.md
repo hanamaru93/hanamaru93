@@ -1,6 +1,6 @@
-#:computer: Hi, I’m Felipe Barbosa
+:computer: Hi, I’m Felipe Barbosa
 ===================================
-##.NET DEVELOPE(MID LEVEL)
+.NET DEVELOPE(MID LEVEL)
 -----------------------------------
 - ###👀 I’m interested:
   -:mag:**C#:**
