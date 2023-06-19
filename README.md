@@ -6,38 +6,38 @@
 -----------------------------------
 
   -:mag:**FRONT-END:**
-    * HTML,
-    * CSS,
-    * JS,
-    * JQuery,
-    * BOOTSTRAP 4,
-    * BOOTSTRAP 5,
-    * Angular(Learning),
-    * React(Learning),
-    * Vue(Learning),
+    * HTML -
+    * CSS -
+    * JS -
+    * JQuery -
+    * BOOTSTRAP 4 -
+    * BOOTSTRAP 5 -
+    * Angular(Learning) -
+    * React(Learning) -
+    * Vue(Learning) -
     * AJAX
 
 
   -:mag:**BACK-END WITH C#:**
-    * DotNet Framework,
-    * DotNet Core,
-    * AspNet,
-    * AspNet Core,
+    * DotNet Framework -
+    * DotNet Core -
+    * AspNet -
+    * AspNet Core -
     * Entity Framework
 
    -:floppy_disk:**Databases:**
-    * SQLite,
-    * MySQL,
-    * MariaDB,
-    * SQLServer,
-    * PostGreesSQL,
+    * SQLite -
+    * MySQL -
+    * MariaDB -
+    * SQLServer -
+    * PostGreesSQL -
     * OracleDB
       
   -:triangular_ruler:**Design Patterns:**
-    * TDD,
-    * DDD,
-    * MVC,
-    * MVVM,
+    * TDD -
+    * DDD -
+    * MVC -
+    * MVVM -
     * SOLID
  
 ------------------------------------------------------------------------------------------------
@@ -55,12 +55,12 @@ Languages
 ------------------------------------------------------------------------------------------------
 
 - **:speech_balloon: Languages**:
-    *Portuguease
-    *English
-    *Japanease(Learning)
-    *Russian(Learning)
-    *Italian(Learning)
-    *French(Learning)
+    *Portuguease -
+    *English -
+    *Japanease(Learning) -
+    *Russian(Learning) -
+    *Italian(Learning) -
+    *French(Learning) -
     *Chinease(Learning)
 
 
