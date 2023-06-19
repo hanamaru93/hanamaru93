@@ -1,15 +1,33 @@
 :computer: Hi, I’m Felipe Barbosa
 ===================================
-.NET DEVELOPE(MID LEVEL)
+.NET DEVELOPER(MID LEVEL)
 -----------------------------------
 - 👀 I’m interested:
 
-  -:mag:**C#:**
+  -:mag:**FRONT-END:**
+    * HTML
+    * CSS
+    * JS
+    * JQuery
+    * BOOTSTRAP 4
+    * BOOTSTRAP 5
+    * AJAX
+
+
+  -:mag:**BACK-END WITH C#:**
     * DotNet Framework
     * DotNet Core
     * AspNet
     * AspNet Core
     * Entity Framework
+
+   -:floppy_disk:**Databases:**
+    * SQLite
+    * MySQL
+    * MariaDB
+    * SQLServer
+    * PostGreesSQL
+    * OracleDB
       
   -:triangular_ruler:**Design Patterns:**
     * TDD
