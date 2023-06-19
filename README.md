@@ -5,8 +5,8 @@
 - 👀 I’m interested:
 
   -:mag:**C#:**
-    *.Net Framework
-    *.Net Core
+    * DotNet Framework
+    * DotNet Core
     * AspNet
     * AspNet Core
     * Entity Framework
