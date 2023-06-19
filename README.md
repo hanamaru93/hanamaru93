@@ -17,7 +17,24 @@
     * MVC
     * MVVM
     * SOLID
+ 
+------------------------------------------------------------------------------------------------
+
      
-- **🌱 I’m currently more about C#, News Technology, Databases and Design Patterns**
-- **📫 How to reach me:felipe93ti@gmail.com
-                  Whatsapp:+5583987544118**
+- **🌱 I’m currently learn more about C#, News Technology, Databases and Design Patterns**
+
+------------------------------------------------------------------------------------------------
+
+- **:speech_balloon: Languages**:
+    *Portuguease
+    *English
+    *Japanease(Learning)
+    *Russian(Learning)
+    *Italian(Learning)
+    *French(Learning)
+    *Chinease(Learning)
+
+------------------------------------------------------------------------------------------------
+  
+- **📫 Email:felipe93ti@gmail.com**
+- **:iphone: Whatsapp:+5583987544118**
