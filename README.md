@@ -18,6 +18,6 @@
     * MVVM
     * SOLID
      
-- ###🌱 I’m currently more about C#, News Technology, Databases and Design Patterns:
-- ###📫 How to reach me:felipe93ti@gmail.com
-                  tel:+5583987544118
+- **🌱 I’m currently more about C#, News Technology, Databases and Design Patterns**
+- **📫 How to reach me:felipe93ti@gmail.com
+                  Whatsapp:+5583987544118**
