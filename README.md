@@ -2,7 +2,8 @@
 ===================================
 .NET DEVELOPER(MID LEVEL)
 -----------------------------------
-- 👀 I’m interested:
+#### 👀 I’m interested:
+-----------------------------------
 
   -:mag:**FRONT-END:**
     * HTML
@@ -11,6 +12,9 @@
     * JQuery
     * BOOTSTRAP 4
     * BOOTSTRAP 5
+    * Angular(Learning)
+    * React(Learning)
+    * Vue(Learning)
     * AJAX
 
 
@@ -41,6 +45,13 @@
      
 - **🌱 I’m currently learn more about C#, News Technology, Databases and Design Patterns**
 
+
+------------------------------------------------------------------------------------------------
+
+
+
+
+Languages
 ------------------------------------------------------------------------------------------------
 
 - **:speech_balloon: Languages**:
@@ -52,6 +63,10 @@
     *French(Learning)
     *Chinease(Learning)
 
+
+
+
+Contact
 ------------------------------------------------------------------------------------------------
   
 - **📫 Email:felipe93ti@gmail.com**
