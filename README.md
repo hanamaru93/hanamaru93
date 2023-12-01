@@ -5,6 +5,14 @@
 ### 👀 I’m interested in:
 -----------------------------------
 
+   -:mag:**MAINFRAME:**
+    * COBOL -
+    * JCL -
+    * CICS -
+    * SQL -
+    * DB2 -
+    * VSAM
+    
   -:mag:**FRONT-END:**
     * HTML -
     * CSS -
@@ -24,6 +32,7 @@
     * AspNet -
     * AspNet Core -
     * Entity Framework
+
 
    -:floppy_disk:**Databases:**
     * SQLite -
