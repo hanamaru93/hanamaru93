@@ -5,7 +5,7 @@
 ### 👀 I’m interested in:
 -----------------------------------
 
-   -:mag:**MAINFRAME:**
+   - **:mag: MAINFRAME:**
     * COBOL -
     * JCL -
     * CICS -
@@ -13,7 +13,7 @@
     * DB2 -
     * VSAM
     
-  -:mag:**FRONT-END:**
+  - **:mag: FRONT-END:**
     * HTML -
     * CSS -
     * JS -
@@ -26,7 +26,7 @@
     * AJAX
 
 
-  -:mag:**BACK-END WITH C#:**
+  - **:mag: BACK-END WITH C#:**
     * DotNet Framework -
     * DotNet Core -
     * AspNet -
@@ -34,7 +34,7 @@
     * Entity Framework
 
 
-   -:floppy_disk:**Databases:**
+   - **:floppy_disk: Databases:**
     * SQLite -
     * MySQL -
     * MariaDB -
@@ -42,7 +42,7 @@
     * PostGreesSQL -
     * OracleDB
       
-  -:triangular_ruler:**Design Patterns:**
+  - **:triangular_ruler: Design Patterns:**
     * TDD -
     * DDD -
     * MVC -
