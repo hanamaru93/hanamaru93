@@ -1,58 +1,57 @@
-:computer: Hi, I’m Felipe Barbosa
+:computer: Hi, I’m *Felipe Barbosa*
 ===================================
-.NET DEVELOPER(MID LEVEL)
+:man_technologist: SOFTWARE ENGINEER
 -----------------------------------
 ### 👀 I’m interested in:
 -----------------------------------
 
-   - **:mag: MAINFRAME:**
-    * COBOL -
-    * JCL -
-    * CICS -
-    * SQL -
-    * DB2 -
-    * VSAM
+ |&ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; :office: **MAINFRAMES** &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp; &ensp; &ensp; |
+ |:---:|
+ |     COBOL  |
+ |     JCL    |
+ |     CICS   |
+ |     SQL      |
+ |     DB2      |
+ |     VSAM     |
     
-  - **:mag: FRONT-END:**
-    * HTML -
-    * CSS -
-    * JS -
-    * JQuery -
-    * BOOTSTRAP 4 -
-    * BOOTSTRAP 5 -
-    * Angular(Learning) -
-    * React(Learning) -
-    * Vue(Learning) -
-    * AJAX
+ | &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;    :art: **FRONT-END**  &ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;|  &ensp;  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; :gear: **BACK-END WITH C#**  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp;  &ensp; &ensp; &ensp;|
+ |:---:| :---:|
+ | HTML                 |                              |
+ | CSS                  | DotNet Framework             |
+ | JS                   | DotNet Core                  |
+ | JQuery               | AspNet                       |
+ | BOOTSTRAP 4          | AspNet Core                  |
+ | BOOTSTRAP 5          | Blazor                       |
+ | Angular(Learning)    | Windows Forms                |
+ | React(Learning)      | Entity Framework             |
+ | Vue(Learning)        |                              |
+ | AJAX                 |                              |
 
 
-  - **:mag: BACK-END WITH C#:**
-    * DotNet Framework -
-    * DotNet Core -
-    * AspNet -
-    * AspNet Core -
-    * Entity Framework
+ 
 
-
-   - **:floppy_disk: Databases:**
-    * SQLite -
-    * MySQL -
-    * MariaDB -
-    * SQLServer -
-    * PostGreesSQL -
-    * OracleDB
+| &ensp;  &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; :floppy_disk: **Databases**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;  &ensp; |
+|:---:|
+|    SQLite                    |
+|    MySQL                     |
+|    MariaDB                   |
+|    SQLServer                 |
+|    PostGreesSQL              |
+|    OracleDB                  |
       
-  - **:triangular_ruler: Design Patterns:**
-    * TDD -
-    * DDD -
-    * MVC -
-    * MVVM -
-    * SOLID
+| &ensp;  &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; :triangular_ruler: **Design Patterns**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp; &ensp;  &ensp;| 
+|:---:|
+|       TDD          |
+|       DDD          |
+|       MVC          |       
+|       MVVM         |
+|       SOLID        |
+      
  
 ------------------------------------------------------------------------------------------------
 
      
-- **🌱 I’m currently learn more about C#, News Technology, Databases and Design Patterns**
+- ** :books: I’m currently learn more about Mainframes environment.**
 
 
 ------------------------------------------------------------------------------------------------
@@ -63,20 +62,15 @@
 Languages
 ------------------------------------------------------------------------------------------------
 
-- **:speech_balloon: Languages**:
-    *Portuguease -
-    *English -
-    *Japanease(Learning) -
-    *Russian(Learning) -
-    *Italian(Learning) -
-    *French(Learning) -
-    *Chinease(Learning)
-
-
+-  :speech_balloon: **Languages**:
+    * :brazil: Portuguease -
+    * :us: English -
+    * :ru: Russian(Learning) -
+ 
 
 
 Contact
 ------------------------------------------------------------------------------------------------
   
-- **📫 Email:felipe93ti@gmail.com**
-- **:iphone: Whatsapp:+5583987544118**
+- 📫 Email:**felipe93ti@gmail.com**
+- 📞 Whatsapp:**+5583987544118**
