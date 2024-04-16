@@ -9,14 +9,12 @@
  | &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;    :art: **FRONT-END**  &ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;|  &ensp;  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; :gear: **BACK-END WITH C#**  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp;  &ensp; &ensp; &ensp;|
  |:---:| :---:|
  | HTML                 |                              |
- | CSS                  | DotNet                       |
- | JS                   | DotNet Framework             |
- | JQuery               | DotNet Core                  |
- | BOOTSTRAP 4          | AspNet Core                  |
- | BOOTSTRAP 5          | AspNet Core                  |
- | Blazor               | Entity Framework             |
- | React(Learning)      | Entity Framkework Core       |
- | Windows Forms        |                              |
+ | CSS                  | PHP                          |
+ | JS                   | Assembly                     |
+ | JQuery               | Laravel                      |
+ | BOOTSTRAP 4          | Wordpress                    |
+ | BOOTSTRAP 5          |                              |
+ | React(Learning)      |                              |
  | AJAX                 |                              |
 
 
@@ -43,7 +41,7 @@
 ------------------------------------------------------------------------------------------------
 
      
-- ** :books: I’m currently learn more about Kafka / RabbitMQ.**
+- ** :books: I’m currently learn more about Arch Linux.**
 
 
 ------------------------------------------------------------------------------------------------
