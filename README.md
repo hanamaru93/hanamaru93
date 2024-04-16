@@ -5,8 +5,8 @@
 ### 👀 I’m interested in:
 -----------------------------------
 
-    
- | &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;    :art: **FRONT-END**  &ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;|  &ensp;  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; :gear: **BACK-END WITH PHP**  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp;  &ensp; &ensp; &ensp;|
+ |:---:| :---:|
+ |:art: **FRONT-END**  |  & :gear: **BACK-END WITH PHP** |
  |:---:| :---:|
  | HTML                 |                              |
  | CSS                  | PHP                          |
@@ -19,8 +19,8 @@
 
 
  
-
-| &ensp;  &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; :floppy_disk: **Databases**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;  &ensp; |
+|:---:|
+|:floppy_disk: **Databases**   |
 |:---:|
 |    SQLite                    |
 |    MySQL                     |
@@ -28,8 +28,9 @@
 |    SQLServer                 |
 |    PostGreesSQL              |
 |    OracleDB                  |
-      
-| &ensp;  &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; :triangular_ruler: **Design Patterns**  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp;  &ensp;&ensp; &ensp;  &ensp;| 
+
+|:---:|
+| :triangular_ruler: **Design Patterns** | 
 |:---:|
 |       TDD          |
 |       DDD          |
