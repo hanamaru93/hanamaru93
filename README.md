@@ -5,7 +5,7 @@
 ### 👀 I’m interested in:
 -----------------------------------
 
- |:---:| :---:|
+ 
  |:art: **FRONT-END**  |  & :gear: **BACK-END WITH PHP** |
  |:---:| :---:|
  | HTML                 |                              |
@@ -19,7 +19,7 @@
 
 
  
-|:---:|
+
 |:floppy_disk: **Databases**   |
 |:---:|
 |    SQLite                    |
@@ -29,7 +29,7 @@
 |    PostGreesSQL              |
 |    OracleDB                  |
 
-|:---:|
+
 | :triangular_ruler: **Design Patterns** | 
 |:---:|
 |       TDD          |
