@@ -6,7 +6,7 @@
 -----------------------------------
 
     
- | &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;    :art: **FRONT-END**  &ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;|  &ensp;  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; :gear: **BACK-END WITH C#**  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp;  &ensp; &ensp; &ensp;|
+ | &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;    :art: **FRONT-END**  &ensp;  &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;|  &ensp;  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; :gear: **BACK-END WITH PHP**  &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp;  &ensp; &ensp; &ensp;|
  |:---:| :---:|
  | HTML                 |                              |
  | CSS                  | PHP                          |
