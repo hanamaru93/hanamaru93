@@ -1,4 +1,5 @@
 <div id="badges" align="center">
+ 
 :computer: Hi, I’m *Felipe Barbosa*
 ===================================
 :man_technologist: SOFTWARE ENGINEER
@@ -44,10 +45,10 @@
 Languages
 ------------------------------------------------------------------------------------------------
 
--  :speech_balloon: **Languages**:
-    * :brazil: Portuguease -
-    * :us: English -
-    * :ru: Russian(Learning) -
+:speech_balloon: **Languages**:
+:brazil: Portuguease 
+:us: English 
+:ru: Russian(Learning) 
  
 
 
