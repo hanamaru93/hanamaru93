@@ -46,8 +46,8 @@ Languages
 ------------------------------------------------------------------------------------------------
 
 :speech_balloon: **Languages**:
-Portuguease 
-English 
+Portuguease -
+English -
 Russian(Learning) 
  
 
