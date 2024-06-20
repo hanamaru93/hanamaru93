@@ -56,8 +56,8 @@ Russian(Learning)
 Contact
 ------------------------------------------------------------------------------------------------
   
-![Static Badge](https://img.shields.io/badge/Email%3A_felipe93ti%40gmail.com%20-lightgray?style=flat&logo=gmail&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Whatsapp%3A_%2B5583987544118%20-green?style=flat&logo=whatsapp&logoColor=white)
+<a hre='mailto:felipe93ti@gmail.com'> ![Static Badge](https://img.shields.io/badge/Email%3A_felipe93ti%40gmail.com%20-lightgray?style=flat&logo=gmail&logoColor=white) </a>
+<a href='https://api.whatsapp.com/send/?phone=%2B5583987544118&text&type=phone_number&app_absent=0'> ![Static Badge](https://img.shields.io/badge/Whatsapp%3A_%2B5583987544118%20-green?style=flat&logo=whatsapp&logoColor=white) </a>
 
 
 </div>
