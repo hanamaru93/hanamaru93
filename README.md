@@ -55,7 +55,7 @@ Russian(Learning)
 Contact
 ------------------------------------------------------------------------------------------------
   
-📫 Email:**felipe93ti@gmail.com**
+📫 Email:**felipe93ti@gmail.com** - 
 📞 Whatsapp:**+5583987544118**
 
 </div>
