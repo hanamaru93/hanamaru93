@@ -5,7 +5,8 @@
 -----------------------------------
 ### 👀 I’m interested in:
 -----------------------------------
-![Static Badge](https://img.shields.io/badge/Frontend%20Technologys%3A-%20-gray?style=social)
+
+ ![Static Badge](https://img.shields.io/badge/Frontend%20Technologys%3A-%20-gray?style=social)
 ![Static Badge](https://img.shields.io/badge/HTML5%20-orange?style=flat&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3%20-blue?style=flat&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java%20Script%20-gold?style=flat&logo=javascript&logoColor=white)
