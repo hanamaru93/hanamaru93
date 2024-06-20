@@ -46,9 +46,9 @@ Languages
 ------------------------------------------------------------------------------------------------
 
 :speech_balloon: **Languages**:
-:brazil: Portuguease 
-:us: English 
-:ru: Russian(Learning) 
+Portuguease 
+English 
+Russian(Learning) 
  
 
 
