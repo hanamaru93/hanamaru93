@@ -13,6 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Java%20Script%20-gold?style=flat&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap%20-purple?style=flat&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jquery%20-royalblue?style=flat&logo=jquery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React(Learning)%20-green?style=flat&logo=react&logoColor=white)
 
 
 
@@ -55,7 +56,8 @@ Russian(Learning)
 Contact
 ------------------------------------------------------------------------------------------------
   
-📫 Email:**felipe93ti@gmail.com** - 
-📞 Whatsapp:**+5583987544118**
+![Static Badge](https://img.shields.io/badge/Email%3A_felipe93ti%40gmail.com%20-lightgray?style=flat&logo=gmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Whatsapp%3A_%2B5583987544118%20-green?style=flat&logo=whatsapp&logoColor=white)
+
 
 </div>
