@@ -9,10 +9,10 @@
  |:art: **FRONT-END**  |  & :gear: **BACK-END WITH PHP** |
  |:---:| :---:|
  | HTML                 |                              |
- | CSS                  | PHP                          |
- | JS                   | Assembly                     |
- | JQuery               | Laravel                      |
- | BOOTSTRAP 4          | Wordpress                    |
+ | CSS                  | Ruby                         |
+ | JS                   | Ruby On Rails                |
+ | JQuery               |                              |
+ | BOOTSTRAP 4          |                              |
  | BOOTSTRAP 5          |                              |
  | React(Learning)      |                              |
  | AJAX                 |                              |
