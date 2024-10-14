@@ -7,7 +7,7 @@
 ### 👀 I’m interested in:
 -----------------------------------
 
-
+![Static Badge](https://img.shields.io/badge/logo-python-green?logo=python)
 ![Static Badge](https://img.shields.io/badge/%20Ruby%20-red?style=flat&logo=ruby)
 ![Static Badge](https://img.shields.io/badge/SQLite%20-blue?style=flat&logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/MySQL%20-white?style=flat&logo=mysql)
