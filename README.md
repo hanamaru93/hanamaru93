@@ -10,11 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/ASM%20-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/%20Python%20-green?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/%20Ruby%20-red?style=flat&logo=ruby)
-![Static Badge](https://img.shields.io/badge/SQLite%20-blue?style=flat&logo=sqlite)
-![Static Badge](https://img.shields.io/badge/MySQL%20-white?style=flat&logo=mysql)
-![Static Badge](https://img.shields.io/badge/MariaDB%20-gray?style=flat&logo=mariadb)
-![Static Badge](https://img.shields.io/badge/MongoDB%20-green?style=flat&logo=mongodb)
-
+![Static Badge](https://img.shields.io/badge/SQL%20-blue?style=flat&logo=sqlite)
 
 
  
