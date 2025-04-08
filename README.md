@@ -1,8 +1,8 @@
 <div id="badges" align="center">
  
-:computer: Hi, I’m *Felipe Barbosa*
+:computer: Hi, I’m *Hanamaru*
 ===================================
-:man_technologist: PENTESTER
+:man_technologist: RedOps / Pentester / Offensive Security
 -----------------------------------
 ### 👀 I’m interested in:
 -----------------------------------
